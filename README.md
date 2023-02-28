@@ -2,7 +2,7 @@
 
 Docker hub user: alfonsopineda/demop-spring
 
-###**Empujar a docker hub**
+### **Empujar a docker hub**
 
 docker login
 
@@ -14,6 +14,6 @@ docker push alfonsopineda/demop-spring:1
 
 
 
-###**Correr proyecto subido en docker hub**
+### **Correr proyecto subido en docker hub**
 
 docker run -p 8080:8080 alfonsopineda/demop-spring:1
