@@ -4,7 +4,7 @@ Docker hub user: alfonsopineda/demop-spring
 
 ### **Empujar a docker hub**
 
-docker login
+> docker login
 
 docker build -t demop-spring .
 
